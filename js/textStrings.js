@@ -822,3 +822,105 @@ var textStrings_TR = {
 	// (quote0004.png)
 	"misatrributed": "(yanlış bir şekilde ona atfedilir)",
 };
+
+var textStrings_UA = {
+	// Act 1
+	"niceHat": "Диви! Файний капелюх!",
+	"outtaHere": "Ану, геть звідси!",
+	"getARoom": "Бридота! Знайдіть окрему кімната",
+	"notCoolAnymore": "Забудь, капелюхи то вчорашній день",
+	"tvOnTv": "Це телевізор... у телевізорі!",
+	"cricky": "Маленький Цвіркунчик <3",
+	"tooManyCrickets": "Ще трохи — і тут буде симфонія з цвіркунів",
+	"normalPeep": "Просто собі людина. Нічого особливого",
+	"normalPeeps": "Просто звичайнісінькі люди",
+	"wowNothing": "Ух ти, та це ж… нічого!",
+
+	// Act 2
+	"crazySquareAttacks": "БОЖЕВІЛЬНИЙ КВАДРАТ АТАКУЕ!",
+	"justMissed": " О ні, промазав",
+	"somethingInteresting": "(Треба піймати їх на чомусь вражаючому...)",
+	"whoIsScreaming": "(Тільки б дізнатися, хто там зриває голос...)",
+	"circleFearsSquares": "КРУГИ БОЯТЬСЯ КВАДРАТІВ",
+	"whoScaresThem": "(Треба ще з’ясувати, ким вони так налякані...)",
+	"areTheyScared": "(Спіймати би як квадрат наганяє страх...)", // not used
+	"squaresSnubCircles": "КВАДРАТИ ІГНОРУЮТЬ КРУГИ",
+	"areTheySnubbed": "(Спіймати би як вони ігнорять круг…)", // not used
+	"everyoneHates": "ВСІ НЕНАВИДЯТЬ ВСІХ!!!!",
+	"almostEveryoneHates": "МАЙЖЕ ВСІ НЕНАВИДЯТЬ ВСІХ...",
+	"squaresHateCircles": "КВАДРАТИ НЕНАВИДЯТЬ КРУГИ",
+	"circlesHateSquares": "КРУГИ НЕНАВИДЯТЬ КВАДРАТИ",
+	"areTheyYelling": "(Спіймати би як вони кричать на інших!)", // not used
+	"nerdsNow": "Що ці диваки роблять цього разу?",
+	"schockedPeep": "Чим ці люди шоковані?",
+	"whatever": "Не має значення",
+
+	// Act 3
+	"ellipsis": ". . .",
+	"coolNoMore": "Капилюхи більше не в тренді, ти що не чув?",
+	"beScared": "БІЙСЯ! ЗЛИСЬ!",
+
+	// MANIFESTO
+	"manifesto": [
+		//"as if you viewers want GOOD news"       ,
+		"хто вмикае телевізор, аби дивитися як люди ладнають?",
+		"мир — це нудно. Насильство стає вірусним.",
+		//"peace is boring. conflict gets clicks." ,
+		"i кожна історія потребує конфлікту, тож...",
+		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+		"ДАЙТЕ ГЛЯДАЧАМ ТЕ, ЧОГО ВОНИ ХОЧУТЬ."
+	],
+
+	// -- Strings currently in graphics resources --
+
+	// (bg_preload.png) Preload screen
+	"playingTime": "оріентовний час гри: 5 хвилин",
+	"warning": "Увага: наступна програма\n містить сцени снобізму, \nнахабства та масових вбивств.\nРекомендується обережність при перегляді.",
+
+	// (cam-instructions.png) Camera Instructions
+	"pointAndClick": "НАВЕДИ ТА НАТИСНИ",
+
+	// (chyron3.png)
+	"chyronNothing": "ОГО-ГО, ТА ЦЕ НІЩО!",
+
+	// (credits0001.png)
+	"createdBy": "Автор",
+	"NickyCase": "Nicky Case",
+
+	// (credits0002.png)
+	"manyThanks": "Окреме дякую для моїх тестувальників:",
+
+	// (credits000[3,4,5,6].png)
+	"patreonSupporters": "та тим, хто піддтримує мене на патреоні:",
+
+	// (credits0007.png)
+	"lastButNotLeast": "І на останок, але не менш важливо,",
+
+	// (credits0008.png)
+	"thankYouForPlaying": "Дякую ВАМ за те, що грали!",
+
+	// (preload_play.png)
+	"playButton": "Грати",
+
+	// (end_button.png) Post Credits
+	"otherWorkButton": "дивіться мої інші роботи",
+	"buyCoffeeButton": "придбайте мені каву",
+	"replayButton": "Перезавантажте цей жах",
+
+	// (logo.png) Post Credits
+	"logoWBWWB": "РОЗДІЛІТЬ БІЛЬ:",
+
+	// (end_prototype.png)
+	"endOfPrototype": "КІНЕЦЬ ПРОТОТИПУ.",
+	"toBeContinued": "(далі буде!)",
+
+	// (quote0002.png)
+	"WBWWB": "Ми стаємо тим, що ми споглядаємо.",
+	"WSOTATOTSU": "Ми формуємо свої інструменти, а потім наші інструменти формують нас.",
+
+	// (quote0003.png)
+	"MarshallMcLuhan": "Marshall McLuhan",
+
+	// (quote0004.png)
+	"misatrributed": "(Невірно приписано)",
+}
